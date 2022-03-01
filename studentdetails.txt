@@ -1,0 +1,3 @@
+sname:preethi
+age:23
+mobile no:7780735190
